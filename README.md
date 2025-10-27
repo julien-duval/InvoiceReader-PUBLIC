@@ -6,25 +6,25 @@ _Sous-projet du projet global \(InvoiceNest\)_
 📖 Sommaire
 -----------
 
-1.  [Présentation générale](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-présentation-générale)
+1.  Présentation générale
     
-2.  [Contexte du projet](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-contexte-du-projet)
+2.  Contexte du projet
     
-3.  [Architecture et fonctionnement](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-architecture-et-fonctionnement)
+3.  Architecture et fonctionnement
     
-4.  [Pipeline de traitement](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-pipeline-de-traitement)
+4.  Pipeline de traitement
     
-5.  [Parallélisation et performances](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-parallélisation-et-performances)
+5.  Parallélisation et performances
     
-6.  [Résultats et limites techniques](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-résultats-et-limites-techniques)
+6.  Résultats et limites techniques
     
-7.  [Structure du dépôt](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-structure-du-dépôt)
+7.  Structure du dépôt
     
-8.  [Installation et exécution](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-installation-et-exécution)
+8.  Installation et exécution
     
-9.  [Perspectives d’évolution](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-perspectives-dévolution)
-    
-10.  [Crédits et remerciements](https://chatgpt.com/c/68ff839f-7e84-8329-9cb6-59e344ac6300#-crédits-et-remerciements)
+9.  Perspectives d’évolution
+
+10.  Crédits et remerciements
     
 
 🧠 Présentation générale
