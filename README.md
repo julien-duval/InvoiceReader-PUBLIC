@@ -189,9 +189,9 @@ python3 main.py <path_to_pdfs> -p -n 5 -gpu
 
 ### ⚠️ Limites connues :
 
-*   Correction nécessaire dans les fichiers générés par la librairie
+*   La librairie "pdfminer.six" contient une aberation algorithmique sur les fichiers .bmp enregistrés (problème de dimension) ce qui a dû être corrigé.
     
-*   Lenteur sur certains environnements macOS
+*   Lenteur sur certains environnements macOS (notamment du à la librairie matplotlib.pyplot qui n'efface pas bien les données avec un grand nombre d'affichage)
     
 *   Mémoire non optimale sur des lots de >100 factures
     
@@ -233,7 +233,7 @@ pip install -r requirements.txt
 
 ### 2\. Exécuter le programme
 
-<path_to_pdfs> peuvent être un fichier pdf ou bien un dossier de fichiers pdf
+<path_to_pdfs> peut être un fichier pdf ou bien un dossier de fichiers pdf
 
 ```bash
 python3 main.py <path_to_pdfs> -p -n 5 -gpu
